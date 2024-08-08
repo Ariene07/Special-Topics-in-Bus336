@@ -1,0 +1,12 @@
+
+The primary learning objectives were to organize, explore, and synthesize business data using Python, share insights with different audiences, and make data-driven decisions.
+I personally feel like the term project sucessfully achieved these objectives because I was able to learn step by step how to import data, clean, transform, and anazlyze it.
+I feel like this project let me apply the Python skills I learned during Data Camp. When coming into this class I expected to learn how to code step by step and how coding can be used in the business feild. 
+I'll be taking away how important it is to analyze data in buisiness and how it can help future businesses.
+I never learned how to code before, well I did touch on it alittle in highschool but it was rather difficult for me. Using Data Camp was alot easier because it went step by step and explained to me why I got answers wrong, the videos and slides were also super helpful to profect my coding skills.
+I find Python intreseting because there are so many things you cando like build graphs, analyze data, clean data, change data, and analyze different changings in data to be able to forcast.
+I feel like the directions were a bit unclear for the Term Project because in the beginning when reading the introduction for the stepby stepguideit explained the objective, so i thought we would have to create a graph and build information off the csv file, but after rereading a couple oftimes I saw that we just had todo cleaning and follow the step by step guide. 
+I feel like the hints made the project alittle easier because as a beginner its easy to forget all these new codes.
+I think understanding GitHub is important because I know alot of companies use it. I'm sure that I will become better at using GitHub in the future and I knew there are many videos to help me understand all of its capablities. 
+I'm unsure what the future holds for me, but im glad I touched on Python alittle because I know companies in Finance and Business like. for many of their workers to know how to use Python and Excel. 
+Overall I really liked the class and found Data Camp and the material interesting as well as helpful. I cant wait to use in the Foreseeable future. 
